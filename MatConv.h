@@ -2,10 +2,10 @@
 #ifndef __MATCONV_H__   
 #define __MATCONV_H__
 
-#define KER_ROWS 3
-#define KER_COLS 3
-#define INP_ROWS 5
-#define INP_COLS 5
+#define KER_ROWS 5
+#define KER_COLS 5
+#define INP_ROWS 15
+#define INP_COLS 15
 #define OUTP_ROWS (INP_ROWS - KER_ROWS + 1)
 #define OUTP_COLS (INP_COLS - KER_COLS + 1)
 
